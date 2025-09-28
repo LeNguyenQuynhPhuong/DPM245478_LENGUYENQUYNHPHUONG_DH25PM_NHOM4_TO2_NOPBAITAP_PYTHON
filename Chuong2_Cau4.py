@@ -2,6 +2,6 @@
 # -Các dữ liệu cơ bản của  python :
 # - int : số nguyên 
 # - float : số thực 
-# - boolena : kiểu logic
+# - boolean : kiểu logic
 # - string : chuỗi 
 # Ngoài kiểu dữ liệu trên thfi python còn có các dữ liệu phức : list ( danh sách ) , tuple ( dữ liệu bộ) , dictionary ( dữ liệu từ điển )
